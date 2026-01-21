@@ -1,0 +1,6 @@
+c1 = "Al-Quran"
+c2 = "Adult Music"
+c3 = "Love Music"
+c4 = "Aura Music"
+c5 = "Educational Videos and Tracks"
+c6,c7,c8,c9,c10 = "random"
