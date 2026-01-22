@@ -1,0 +1,5 @@
+u1d1 = "Pixel World"
+u1d2 = "Anime World"
+u1d3 = "Human World"
+u1d4 = "Encantadia World"
+u1d5 = "Eruditio City"
